@@ -8,7 +8,7 @@ Tools -> Import XML:
 
 ## KeyBindings
 
-Redifine a function signature (`Y`):
+Redefine a function signature (`Y`):
 ![img](https://github.com/enovella/ida2ghidra-kb/blob/master/img/ghidra-redefine-fnc.png)
 
 Retype a variable (`Y`):
